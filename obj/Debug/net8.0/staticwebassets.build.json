@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gdr1cxl5Y3fbhyeAlnDJxJXc3xdDFqpaioNWAYIJEkU=",
+  "Source": "LoanGeneratorAPI",
+  "BasePath": "_content/LoanGeneratorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

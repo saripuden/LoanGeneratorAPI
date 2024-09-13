@@ -1,0 +1,19 @@
+# Ignore Visual Studio temporary files, build results, and
+# other unnecessary files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Logs
+*.log

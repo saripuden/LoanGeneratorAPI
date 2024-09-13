@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LoanGeneratorAPI.Controllers.LoanController",
+    "Method": "CreateLoan",
+    "RelativePath": "api/Loan/create-loan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loanRequest",
+        "Type": "LoanGeneratorAPI.Data.LoanRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
